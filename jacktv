@@ -1,0 +1,132 @@
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/eb/RedeGlobo2005.png/revision/latest?
+
+cb=20140407190046" group-title="",Globo
+https://cdn11.pxstream.tv/hls2/globominas/chunks.m3u8?md5=UVWZBJdtCTs_aB84F0CbvQ&expires=1540801111
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4y/41/Logotipo_do_SBT.svg/768px-Logotipo_do_SBT.svg.png" 
+
+group-title="",SBT
+https://youtu.be/LXpSY15tAAk
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest?
+
+cb=20161129172824" group-title="",Record
+https://cdn11.pxstream.tv/hls2/record2278/chunks.m3u8?md5=wf_bfZJyDfJ3e_alAkoYCA&expires=1540801575
+
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="a",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1340435582.m3u8
+a
+#EXTINF:0 tvg-logo="http://www.globalhub.com.br/wp-content/uploads/2015/03/Logo-TV-BAND-HD.png" group-title="a",Band
+https://cdn11.pxstream.tv/hls/bandhd/chunks.m3u8?md5=LPS3fJ-GD6OQhaNJG4RUZg&expires=1540802406
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="a",Futura
+https://live01.video.globo.com/d/p/s/futura24ha/futura24ha_1485/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo-880x660.png" group-title="a",FOX
+http://50.7.186.123:8081/live/fox/chunks.m3u8?
+
+nimblesessionid=2915805&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE4IDQ6NTg6MDkgQU0maGFzaF92YWx1ZT0xb3hEZS9OTXZhNS9IVk5QZ0ZIcEF3PT0m
+
+dmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj04
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-
+
+Cartoon_Network_2004_logo.svg.png" group-title="a",CartoonNetwork
+http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=l6vmmQ0dW1ZEGeLYLM7_yw&e=1541242756
+
+
+#EXTINF:0 tvg-logo="https://www.casilinanews.it/wp-content/uploads/2017/06/Logo-Warner-Bros-620x350.jpg" group-title="a",Warner
+http://50.7.186.123:8081/live/master22/chunks.m3u8?
+
+nimblesessionid=2916064&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE4IDU6MDU6NTAgQU0maGFzaF92YWx1ZT1rK2lRVGNveHNLQVdqRWtCK2ZYK2lRPT0m
+
+dmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
+
+
+#EXTINF:0 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Syfy-logo-880x660.png" group-title="a",Syfy
+http://212.237.41.64/live/syfy/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.freevector.com/uploads/vector/preview/3324/FreeVector-Sony-Vector-Logo.jpg" group-title="a",Sony
+http://212.237.41.64/live/sony/index.m3u8
+
+
+#EXTINF:0 tvg-logo="https://banner2.kisspng.com/20180419/btq/kisspng-history-television-channel-logo-h2-history-
+
+5ad836f7822628.4258454415241192875331.jpg" group-title="a",History
+http://212.237.41.64/live/history/index.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinemax.svg" group-title="a",Cinemax
+http://212.237.41.64/live/cinemax/index.m3u8
+
+
+#EXTINF:0 tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg?w=1400" group-title="a",Megapix
+http://204.gotoplayer.xyz:8088/live/tvmegapixaovivo/playlist.m3u8?
+
+id=29612&wowzasessionid=3901561126&pk=e2c94b6fe7dfe6890729ede20ec142f9545ce2eedeefe89f985e78bc051a1c0f
+
+
+#EXTINF:0 tvg-logo="http://cdn.venezuelaaldia.com/wp-content/uploads/2017/01/nuevo-logo-tnt-696x363.jpg" group-title="a",TNT
+http://212.237.41.64/live/tnt/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1280px-Max_%28channel
+
+%29.svg.png" group-title="a",Max
+http://212.237.41.64/live/max/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://bllighting.com/wp-content/uploads/2016/12/Paramount-Pictures-print-logo.png" group-
+
+title="a",Paramount
+http://212.237.41.64/live/paramountchannel/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/04/logo-boomerang.png" group-title="a",boomerang
+http://212.237.41.64/live/boomerang/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-
+
+_2015.svg.png" group-title="a",DisneyxD
+http://212.237.41.64/live/disneyxd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo="http://woomagazine.com.br/wp-content/uploads/2017/01/alinevallimwoomagazinewoocasual2.png" group-
+
+title="a",Gloob
+http://212.237.41.64/live/gloob/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="http://logok.org/wp-content/uploads/2014/10/HBO_logo-880x660.png" group-title="a",HBO
+http://212.237.41.64/live/hbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/nick-nickelodeon-logo.jpg?w=1000" group-title="a",Nikelodeon
+http://212.237.41.64/live/nickelodeon/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-eedy2lqpfEg/UwkstCQLk9I/AAAAAAAAhbE/n71QDA1E7qM/s1600/Discovery-Kids.png" group-
+
+title="a",DiscoveryKid
+http://212.237.41.64/live/discoverykids/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/tcaction.png" group-title="a",TCaction
+http://212.237.41.64/live/telecineaction/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/0d/9d/a0/0d9da0b9e175c7fb3f183a9ca05c4e67.jpg" group-title="a",Tcpipoca
+http://212.237.41.64/live/telecinepipoca/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a-/AN66SAwbRI0K1a-QXeVUQowh3ERKe4vn9AJ8ewPXXA=s900-mo-c-c0xffffffff-rj-k-no" group-
+
+title="a",DiscoveryChanel
+http://212.237.41.64/live/discoverychannel/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png" group-title="a",Universal Studio
+http://212.237.41.64/live/universalchannel/tracks-v1a1/mono.m3u8
