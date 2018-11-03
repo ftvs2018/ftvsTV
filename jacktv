@@ -2,21 +2,16 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/eb/RedeGlobo2005.png/revision/latest?
-
-cb=20140407190046" group-title="",Globo
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/eb/RedeGlobo2005.png/revision/latest?cb=20140407190046" group-title="",Globo
 https://cdn11.pxstream.tv/hls2/globominas/chunks.m3u8?md5=UVWZBJdtCTs_aB84F0CbvQ&expires=1540801111
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4y/41/Logotipo_do_SBT.svg/768px-Logotipo_do_SBT.svg.png" 
-
-group-title="",SBT
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4y/41/Logotipo_do_SBT.svg/768px-Logotipo_do_SBT.svg.png" group-title="a",SBT
 https://youtu.be/LXpSY15tAAk
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest?
 
-cb=20161129172824" group-title="",Record
+cb=20161129172824" group-title="a",Record
 https://cdn11.pxstream.tv/hls2/record2278/chunks.m3u8?md5=wf_bfZJyDfJ3e_alAkoYCA&expires=1540801575
-
 
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="a",Rede TV
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1340435582.m3u8
@@ -29,48 +24,33 @@ https://live01.video.globo.com/d/p/s/futura24ha/futura24ha_1485/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo-880x660.png" group-title="a",FOX
 http://50.7.186.123:8081/live/fox/chunks.m3u8?
-
-nimblesessionid=2915805&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE4IDQ6NTg6MDkgQU0maGFzaF92YWx1ZT0xb3hEZS9OTXZhNS9IVk5QZ0ZIcEF3PT0m
-
-dmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj04
+nimblesessionid=2915805&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE4IDQ6NTg6MDkgQU0maGFzaF92YWx1ZT0xb3hEZS9OTXZhNS9IVk5QZ0ZIcEF3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj04
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-
-
 Cartoon_Network_2004_logo.svg.png" group-title="a",CartoonNetwork
 http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=l6vmmQ0dW1ZEGeLYLM7_yw&e=1541242756
-
 
 #EXTINF:0 tvg-logo="https://www.casilinanews.it/wp-content/uploads/2017/06/Logo-Warner-Bros-620x350.jpg" group-title="a",Warner
 http://50.7.186.123:8081/live/master22/chunks.m3u8?
 
-nimblesessionid=2916064&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE4IDU6MDU6NTAgQU0maGFzaF92YWx1ZT1rK2lRVGNveHNLQVdqRWtCK2ZYK2lRPT0m
-
-dmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
-
+nimblesessionid=2916064&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE4IDU6MDU6NTAgQU0maGFzaF92YWx1ZT1rK2lRVGNveHNLQVdqRWtCK2ZYK2lRPT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
 
 #EXTINF:0 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Syfy-logo-880x660.png" group-title="a",Syfy
 http://212.237.41.64/live/syfy/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:0 tvg-logo="https://www.freevector.com/uploads/vector/preview/3324/FreeVector-Sony-Vector-Logo.jpg" group-title="a",Sony
 http://212.237.41.64/live/sony/index.m3u8
-
-
 #EXTINF:0 tvg-logo="https://banner2.kisspng.com/20180419/btq/kisspng-history-television-channel-logo-h2-history-
 
 5ad836f7822628.4258454415241192875331.jpg" group-title="a",History
 http://212.237.41.64/live/history/index.m3u8
-
-
 
 #EXTINF:0 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinemax.svg" group-title="a",Cinemax
 http://212.237.41.64/live/cinemax/index.m3u8
 
 
 #EXTINF:0 tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg?w=1400" group-title="a",Megapix
-http://204.gotoplayer.xyz:8088/live/tvmegapixaovivo/playlist.m3u8?
-
-id=29612&wowzasessionid=3901561126&pk=e2c94b6fe7dfe6890729ede20ec142f9545ce2eedeefe89f985e78bc051a1c0f
+http://204.gotoplayer.xyz:8088/live/tvmegapixaovivo/playlist.m3u8?id=29612&wowzasessionid=3901561126&pk=e2c94b6fe7dfe6890729ede20ec142f9545ce2eedeefe89f985e78bc051a1c0f
 
 
 #EXTINF:0 tvg-logo="http://cdn.venezuelaaldia.com/wp-content/uploads/2017/01/nuevo-logo-tnt-696x363.jpg" group-title="a",TNT
